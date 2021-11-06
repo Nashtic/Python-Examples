@@ -1,3 +1,7 @@
+#source: https://towardsdatascience.com/hiding-data-in-an-image-image-steganography-using-python-e491b68b1372
+#I made little changes for image sources at encode_text() and decode_text() functions. 
+#Install the libaries with "pip install opencv-python" and "pip install google-colab"
+
 import cv2
 import numpy as np
 import types 
